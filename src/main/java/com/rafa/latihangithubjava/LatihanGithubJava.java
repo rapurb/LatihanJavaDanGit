@@ -11,6 +11,6 @@ package com.rafa.latihangithubjava;
 public class LatihanGithubJava {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World, i'm rafa!");
     }
 }
